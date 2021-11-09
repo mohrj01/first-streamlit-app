@@ -7,13 +7,16 @@
 """
 
 import streamlit as st
+
+st.title("Jessica Mohr: Assignment 1")
+st.markdown("Project Idea")
+st.markdown("put project idea here")
+
+
+
+# EXAMPLE CODE BELOW
 import pandas as pd
-
 import plotly.express as px
-
-
-
-
 
 st.title("Welcome to MABA Class")
 st.markdown("This is a demo Streamlit app.")
