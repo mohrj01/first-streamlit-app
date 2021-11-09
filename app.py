@@ -9,10 +9,14 @@
 import streamlit as st
 
 st.title("Jessica Mohr: Assignment 1")
-st.markdown("Project Idea")
+st.markdown("Project Idea:")
 st.markdown("put project idea here")
 
-
+st.markdown("Reflection:")
+st.markdown("I was able to install everything and use GitHub Desktop/Atom to edit the streamlit app")
+st.markdown("I don't think I was ever able to get the VisualStudio editor to work but others are working fine instead.")
+st.markdown("Also I didn't get any further in the Deployming Streamlit word doc, but from what I understand we are starting that next week.")
+st.markdown("")
 
 # EXAMPLE CODE BELOW
 import pandas as pd
