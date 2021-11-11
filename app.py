@@ -10,13 +10,25 @@ import streamlit as st
 
 st.title("Jessica Mohr: Assignment 1")
 st.markdown("Project Idea:")
-st.markdown("put project idea here")
+st.markdown("My project idea will be a movie recommendor system.")
+st.markdown("The user will select 3 movies from a list that they like the most.")
+st.markdown("A model will determine which movie they might like best based on these three selections.")
+st.markdown("The output will be the model's prediction of which movie the user will like best.")
 
 st.markdown("Reflection:")
-st.markdown("I was able to install everything and use GitHub Desktop/Atom to edit the streamlit app")
+st.markdown("I was able to install everything and use GitHub Desktop/Atom to edit the streamlit app.")
+st.markdown("I also went through the entire Google Cloud Platform tutorial. ")
 st.markdown("I don't think I was ever able to get the VisualStudio editor to work but others are working fine instead.")
-st.markdown("Also I didn't get any further in the Deployming Streamlit word doc, but from what I understand we are starting that next week.")
-st.markdown("")
+st.markdown("Also I didn't get any further in the Deploying Streamlit word doc, but from what I understand we are starting that next week.")
+st.markdown("What is working for me: github desktop, atom, google cloud platform, streamlitapp.")
+
+st.markdown("Santoshi helped to confirm my app deployed properly.")
+
+
+
+
+
+
 
 # EXAMPLE CODE BELOW
 import pandas as pd
